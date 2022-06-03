@@ -10,6 +10,11 @@
 
 </div>
 
+### Features
+
+- [x] Menu dropdown
+- [x] Mobile menu 
+
 ## Ferramentas
 
 ### Foram usadas as seguintes ferramentas
