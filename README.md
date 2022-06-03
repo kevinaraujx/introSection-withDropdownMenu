@@ -10,10 +10,11 @@
 
 </div>
 
-### Features
+### Funcionalidades
 
-- [x] Menu dropdown
-- [x] Mobile menu 
+- Menu dropdown
+- Mobile menu 
+- Responsividade
 
 ## Ferramentas
 
